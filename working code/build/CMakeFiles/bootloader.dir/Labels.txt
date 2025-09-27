@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/Commercial product/SNV/Sanitary-napkin-vending-machine/working code/build/CMakeFiles/bootloader
+E:/Commercial product/SNV/Sanitary-napkin-vending-machine/working code/build/CMakeFiles/bootloader.rule
+E:/Commercial product/SNV/Sanitary-napkin-vending-machine/working code/build/CMakeFiles/bootloader-complete.rule
+E:/Commercial product/SNV/Sanitary-napkin-vending-machine/working code/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/Commercial product/SNV/Sanitary-napkin-vending-machine/working code/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/Commercial product/SNV/Sanitary-napkin-vending-machine/working code/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/Commercial product/SNV/Sanitary-napkin-vending-machine/working code/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/Commercial product/SNV/Sanitary-napkin-vending-machine/working code/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/Commercial product/SNV/Sanitary-napkin-vending-machine/working code/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/Commercial product/SNV/Sanitary-napkin-vending-machine/working code/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
