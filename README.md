@@ -15,18 +15,3 @@ The system supports RFID authentication, vending control, and display updates.
 ---
 
 
----
-
-## ⚙️ Setup & Build Instructions
-
-### Requirements
-- [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/get-started/index.html) installed  
-- VS Code with **ESP-IDF extension**  
-- ESP32-S3 DevKit (N8 or N8R8 variant)  
-
-### Build Steps
-1. Clone or create this project in your workspace.
-2. Open project folder in **VS Code**.
-3. Set the target to **ESP32-S3**:
-   ```sh
-   idf.py set-target esp32s3
