@@ -30,7 +30,7 @@ void app_main(void)
 {
     bool state = false;
 
-    device_ini t();
+    device_init();
 
     while(1){
         if(coinvalue > 5){
