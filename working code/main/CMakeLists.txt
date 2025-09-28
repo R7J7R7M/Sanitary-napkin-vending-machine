@@ -3,6 +3,7 @@ idf_component_register(
        
         "SNV_main.c"
         "vending_parameters.c"
+        "device_init.c"
     INCLUDE_DIRS 
         "."
 )

@@ -3,6 +3,8 @@
         "board/esp32s3-builtin.cfg"
     ],
     "files.associations": {
-        "vending_parameters.h": "c"
+        "vending_parameters.h": "c",
+        "system_initialise.h": "c",
+        "device_init.h": "c"
     }
 }

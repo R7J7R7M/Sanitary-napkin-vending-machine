@@ -15,6 +15,8 @@ extern "C" {
  */
 bool vend_product(void);
 void start_motor(void);
+void LED_green_on(void);
+void LED_red_on(void);
 
 
 

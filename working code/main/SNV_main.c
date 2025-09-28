@@ -16,6 +16,7 @@
 
 //Application code headers
 #include "Vending_parameters.h"
+#include "device_init.h"
 
 
 //global variables
@@ -29,20 +30,20 @@ void app_main(void)
 {
     bool state = false;
 
-    //system_intialise();
+    device_ini t();
 
     while(1){
         if(coinvalue > 5){
             state = vend_product();
             if(state){
                 // Product vended successfully
-                 //start_motor();
-                // LED_green_on();
+                 start_motor();
+                 LED_green_on();
                 coinvalue = 0;
                 //wait for 5 seonds for product to vend
             } else {
                 // Handle vending failure
-                //LED_red_on();
+                LED_red_on();
             }
            
            

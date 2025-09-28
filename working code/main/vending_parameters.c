@@ -29,3 +29,18 @@ bool vend_product(){
     
     return false;
 }
+
+void start_motor(void){
+    //code to start motor
+   // printf("\n motor started \n");
+}
+
+void LED_green_on(void){
+    //code to turn on green LED
+   // printf("\n green LED is ON \n");
+}
+
+void LED_red_on(void){
+    //code to turn on red LED
+   // printf("\n red LED is ON \n");
+}
