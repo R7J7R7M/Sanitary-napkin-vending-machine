@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "blink",
-    "project_version":    "fc09b1a-dirty",
+    "project_version":    "31cf646-dirty",
     "project_path":       "E:/Commercial product/SNV/Sanitary-napkin-vending-machine/working code",
     "idf_path":           "E:/Espressif_5.4.1/Espressif/frameworks/esp-idf-v5.4.1",
     "build_dir":          "E:/Commercial product/SNV/Sanitary-napkin-vending-machine/working code/build",

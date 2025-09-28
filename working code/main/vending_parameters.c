@@ -1,7 +1,6 @@
 #include "Vending_parameters.h"
 #include <stdbool.h>
 
-
 extern int vend_coin_state;
 extern int vend_upi_state;
 extern int vend_rfid_state;
